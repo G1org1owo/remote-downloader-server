@@ -1,5 +1,10 @@
 {
+  "name": "remote-download-server",
+  "type": "module",
   "dependencies": {
-    "ws": "^8.18.3"
+    "console-stamp": "^3.1.2",
+    "express": "^5.1.0",
+    "ws": "^8.18.3",
+    "yargs": "^18.0.0"
   }
 }
